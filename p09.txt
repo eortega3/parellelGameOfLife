@@ -1,0 +1,9 @@
+Name - Eduardo Ortega
+Hours - 30+
+Comments - In one section of the code I use a index of the world array and
+compare it with LIVE, in the compute index I do the same thing but when
+threads get to it I get a invalid read and I have been working on this problem
+for the last 10 hours, my partner bailed on me cause of his quiz grade and I
+	don't know what else to do. I meet the qualifications for B- but I want to
+	get a B or B +.  what can I do to achieve this?"
+
